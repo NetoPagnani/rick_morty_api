@@ -1,4 +1,4 @@
-# Rick and Morty(https://rick-morty-api-l67h.onrender.com)
+# [Rick and Morty](https://rick-morty-api-l67h.onrender.com)
 
 This template should help get you started developing with Vue 3 in Vite.
 
